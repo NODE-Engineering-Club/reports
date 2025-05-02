@@ -4,6 +4,8 @@
 
 * [Aleksandra Kraeva](https://es.linkedin.com/in/sashanosense?trk=public_post_reshare-text)<br> - Capitan <br>- System Engineer
 * [Mert Ozkilic](https://es.linkedin.com/in/mert-ozkilic?trk=public_post_reshare-text)<br> - System Architect
+* [Auxence Daillen](http://linkedin.com/in/auxence-daillen-32aab7226)<br> - Mechanical Engineer
+* [Maximilian Severin Becht](https://www.linkedin.com/in/maximilian-becht-61a929207/)<br> - Hardware Engineer
 * [Yuvraj Ajay Shirke](https://es.linkedin.com/in/yuvraj-shirke-344406b4)<br> - Computational Designer <br> - Fabrication Expert
 * [Gautam Vohra](http://linkedin.com/in/gautam-vohra)<br> - Computational Designer <br> - Fabrication Expert
 * [Brian Woodtli](http://linkedin.com/in/brian-woodtli-8120b811b)<br> - Computational Designer <br> - Fabrication Expert
@@ -13,11 +15,6 @@
 * [Samarth Pachchigar](www.linkedin.com/in/samarth-pachchigar-245a48114)<br> - Software <br> - Path Finding and Maneuvering
 * [Chanakan Chormai](https://es.linkedin.com/in/chanakanchormai?trk=public_post_reshare-text)<br> - Software Engineer
 * [Geetham Pasumarty](http://linkedin.com/in/geetham-pasumarty-7210011b4)<br> - Hardware/Software Integration
-* [Auxence Daillen](http://linkedin.com/in/auxence-daillen-32aab7226)<br> - Mechanical Engineer
-* [Maximilian Severin Becht](https://www.linkedin.com/in/maximilian-becht-61a929207/)<br> - Hardware Engineer
 
-
- 
-* [name](link) - Role
 
 * [Marita Georganta](https://www.linkedin.com/in/marita-georganta/) - Founder and Mentor of the IAAC Engineering Club

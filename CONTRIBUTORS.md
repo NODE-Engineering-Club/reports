@@ -17,4 +17,4 @@
 * [Geetham Pasumarty](http://linkedin.com/in/geetham-pasumarty-7210011b4)<br> - Hardware/Software Integration
 
 
-* [Marita Georganta](https://www.linkedin.com/in/marita-georganta/) - Founder and Mentor of the IAAC Engineering Club
+* [Marita Georganta](https://www.linkedin.com/in/marita-georganta/)<br> - Founder and Mentor of the IAAC Engineering Club

@@ -4,7 +4,7 @@
 
 * [Salvador Cantuarias](https://www.linkedin.com/in/salvador-cantuarias-bb5715268/?locale=en_US)<br> - Software Object Segmentation <br>- Maintainer of GitHub Organization
 * [Geetham Pasumarty](https://www.linkedin.com/in/geetham-pasumarty-7210011b4/) - Hardware + Software integration & GUI
-* [name](link) - Role
+* [Samarth Pachchigar](www.linkedin.com/in/samarth-pachchigar-245a48114) - Software - Path Finding and Maneuvering
 * [name](link) - Role
 * [name](link) - Role
 * [name](link) - Role

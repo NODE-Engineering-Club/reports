@@ -9,10 +9,10 @@
 * [Yuvraj Ajay Shirke](https://es.linkedin.com/in/yuvraj-shirke-344406b4)<br> - Computational Designer <br> - Fabrication Expert
 * [Gautam Vohra](http://linkedin.com/in/gautam-vohra)<br> - Computational Designer <br> - Fabrication Expert
 * [Brian Woodtli](http://linkedin.com/in/brian-woodtli-8120b811b)<br> - Computational Designer <br> - Fabrication Expert
-* [Salvador Cantuarias](https://www.linkedin.com/in/salvador-cantuarias-bb5715268/?locale=en_US)<br> - Software Object Segmentation <br> - Maintainer of GitHub Organization
-* [Arun Prasad](http://linkedin.com/in/architectarunprasad)<br> - Software Engineer
-* [Nouhaila Elmalouli](www.linkedin.com/in/nouhaila-elmalouli-46517a208)<br> - Software/computer vision <br> - Object Segmentation 
 * [Samarth Pachchigar](www.linkedin.com/in/samarth-pachchigar-245a48114)<br> - Software <br> - Path Finding and Maneuvering
+* [Salvador Cantuarias](https://www.linkedin.com/in/salvador-cantuarias-bb5715268/?locale=en_US)<br> - Software Object Segmentation <br> - Maintainer of GitHub Organization
+* [Nouhaila Elmalouli](www.linkedin.com/in/nouhaila-elmalouli-46517a208)<br> - Software/computer vision <br> - Object Segmentation 
+* [Arun Prasad](http://linkedin.com/in/architectarunprasad)<br> - Software Engineer
 * [Chanakan Chormai](https://es.linkedin.com/in/chanakanchormai?trk=public_post_reshare-text)<br> - Software Engineer
 * [Geetham Pasumarty](http://linkedin.com/in/geetham-pasumarty-7210011b4)<br> - Hardware/Software Integration
 

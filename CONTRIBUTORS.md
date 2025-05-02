@@ -11,7 +11,7 @@
 * [Gautam Vohra](http://linkedin.com/in/gautam-vohra) - Computational Designer, Fabrication Expert
 * [Arun Prasad](http://linkedin.com/in/architectarunprasad) - Software Engineer
 * [Geetham Pasumarty](http://linkedin.com/in/geetham-pasumarty-7210011b4) - Hardware/Software Integration
-* [name](link) - Role
+* [Nouhaila Elmalouli](www.linkedin.com/in/nouhaila-elmalouli-46517a208) - Software/computer vision - Object Segmentation  
 * [name](link) - Role
 
 * [Marita Georganta](https://www.linkedin.com/in/marita-georganta/) - Founder and Mentor of the IAAC Engineering Club

@@ -3,7 +3,7 @@
 ## The Open Waters Initiative - Njord 2025
 
 * [name](link) - Role
-* [name](link) - Role
+* Geetham Pasumarty([link](https://www.linkedin.com/in/geetham-pasumarty-7210011b4/)) - Role
 * [name](link) - Role
 * [name](link) - Role
 * [name](link) - Role
